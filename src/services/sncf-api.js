@@ -1,5 +1,5 @@
 // Constantes API
-const API_KEY = 'f7fc30fd-5742-40f9-95f0-ecf3a4a6bf0b';
+const API_KEY = 'HIDDEN';
 const BASE_URL = 'https://api.sncf.com/v1/coverage/sncf';
 
 // Configuration par défaut pour fetch
